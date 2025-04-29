@@ -1,7 +1,6 @@
 # sit323-737-2024-t1-prac7p
 1. **Clone the Repository**
-   - Clone this repository to your local machine using:
-   ```bash
+   -
    git clone https://github.com/zainulabidins22/sit323-737-2024-t1-prac7p.git
    cd sit323-737-2024-t1-prac7p
 Set Up MongoDB in Kubernetes
